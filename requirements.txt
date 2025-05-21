@@ -1,0 +1,9 @@
+eel
+pyttsx3
+pyautogui
+wikipedia
+requests
+beautifulsoup4
+pytube
+pyjokes
+speechrecognition
